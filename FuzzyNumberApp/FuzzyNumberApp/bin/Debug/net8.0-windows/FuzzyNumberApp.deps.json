@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FuzzyNumberApp/1.0.0": {
+        "runtime": {
+          "FuzzyNumberApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuzzyNumberApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
